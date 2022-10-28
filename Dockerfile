@@ -1,1 +1,1 @@
-FROM ekzhang/bore
+FROM ekzhang/bore:0.4.0
